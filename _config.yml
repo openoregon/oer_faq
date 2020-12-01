@@ -1,0 +1,11 @@
+title: OER FAQ
+url: "https://openoregon.github.io"
+
+# Build settings
+markdown: kramdown
+remote_theme: sandbergja/jekyll-library-diy@main
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+baseurl: '/oer_faq'
