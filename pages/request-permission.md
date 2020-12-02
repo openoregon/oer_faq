@@ -32,6 +32,7 @@ or in the public domain before they can adopt your course? Try to make things si
 
 Below is a sample permission request email.
 
+{:.blockquote}
 > Dear Dr. Dumbledore,
 > 
 > I am a faculty member with the ____ project. The purpose of this project is to design openly licensed Science and Technology courses that can be taught face-to-face, hybrid and/or online. These courses will be freely available on the internet for anyone to copy, modify and use under a [CC BY 4.0 Creative Commons license](https://creativecommons.org/licenses/by/4.0/).
