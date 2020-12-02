@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Platforms for Open Content
+related_diys:
+  - pages/campus-specific-help
+  - pages/statewide-help
 ---
 
 ## Overview considerations:
