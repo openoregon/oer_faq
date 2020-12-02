@@ -11,4 +11,4 @@ related_diys:
 Information about grants through the state of Oregon: [http://openoregon.org/grants/](http://openoregon.org/grants/)
 
 For information about internal grants at your college or university, contact your
-[local OER point person]({% "/pages/campus-specific-help" | relative_url %}).
+[local OER point person]({{ "/pages/campus-specific-help" | relative_url }}).
