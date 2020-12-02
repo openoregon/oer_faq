@@ -11,7 +11,7 @@ possible_responses:
   - pages/why: "<strong>Why</strong> use OER?"
   - pages/quality: "If it's free, is it any <strong>good?</strong>"
   - pages/accessible: "I need to determine whether content is <strong>accessible</strong> to various learning styles/needs"
-  - pages/why: "Are <strong>Coursepacks</strong> Open Educational Resources?"
+  - pages/coursepacks: "Are <strong>Coursepacks</strong> Open Educational Resources?"
   - pages/library-resources: "<strong>Library Resources</strong> as Course Materials"
   - pages/state-federal-policy: "State and Federal <strong>Policy</strong>"
   - clarifying/help: "Help!"
