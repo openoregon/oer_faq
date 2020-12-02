@@ -6,7 +6,7 @@ clarifying_question: What are you looking for?
 possible_responses:
   - pages/textbooks: "Open <strong>textbooks</strong>"
   - pages/images: "Open <strong>images</strong>"
-  - pages/ancillary-resources: "<strong>Ancillary resources</strong> for existing open content"
+  - pages/ancillary: "<strong>Ancillary resources</strong> for existing open content"
   - pages/repositories: "<strong>Repositories</strong> to search for open content"
   - pages/cant-find: "Suggestions if <strong>I can't find OER</strong> for my subject"
   - clarifying/help: "Help!"
