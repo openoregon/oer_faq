@@ -1,5 +1,6 @@
 ---
 layout: clarifying
+title: Licensing or Copyright guidance
 redirect_from: /licensing-or-copyright-guidance
 patron_question: I need licensing or copyright guidance
 clarifying_question: What aspects of copyright?
