@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platforms for Open Content
+title: Accessible content
 related_diys:
   - pages/campus-specific-help
   - pages/statewide-help
