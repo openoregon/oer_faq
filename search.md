@@ -8,6 +8,8 @@ layout: page
   <input type="submit" value="search">
 </form>
 
+<h2>Search results</h2>
+
 <dl id="search-results"></dl>
 
 <script>
