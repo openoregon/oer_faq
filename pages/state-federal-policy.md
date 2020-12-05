@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platforms for Open Content
+title: State and Federal Policy
 redirect_from: /state-and-federal-policy
 related_diys:
   - pages/definition
