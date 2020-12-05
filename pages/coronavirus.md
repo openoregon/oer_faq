@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Platforms for Open Content
+title: Coronavirus Crisis
+redirect_from: /coronavirus-crisis
 related_diys:
   - pages/fair-use
   - pages/campus-specific-help
