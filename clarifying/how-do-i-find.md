@@ -3,6 +3,7 @@ layout: clarifying
 redirect_from: what-are-you-looking
 patron_question: How do I find OER?
 clarifying_question: What are you looking for?
+title: Finding Open Educational Resources
 possible_responses:
   - pages/textbooks: "Open <strong>textbooks</strong>"
   - pages/images: "Open <strong>images</strong>"
