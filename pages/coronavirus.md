@@ -18,15 +18,16 @@ order to avoid extra work in the future.
 -   Librarians can give advice but are not lawyers
 -   Your institution may have a copyright officer
 -   Your institution may have a copyright site (example:
-[https://guides.pcc.edu/copyright](https://guides.pcc.edu/copyright))
+[PCC's Copyright Guide](https://guides.pcc.edu/copyright))
 
 ## What can you share with students?
 
 -   You can share open educational resources (or works in the public domain).
--   You can link out to freely available online resources that aren’t openly licensed.
+-   You can link out to freely available online resources that aren't openly licensed.
 -   You likely have a good fair use argument for sharing all-rights-reserved materials with
 students online in a restricted setting - for example, in your learning management system which
-is behind a password. More info: [https://tinyurl.com/tvnty3a](https://tinyurl.com/tvnty3a)
+is behind a password. More info is available in
+[this public statement of library copyright specialists](https://tinyurl.com/tvnty3a)
 -   You can give your students a persistent, proxied link to resources in the libraries'
 databases - ask a librarian if you need help.
 
@@ -36,8 +37,8 @@ databases - ask a librarian if you need help.
 of use that we need for teaching and learning: to download and save a local copy, make revisions,
 and share widely, without violating copyright.
 -   [Open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources) are
-available for free online or in print at low cost. If a bound copy isn’t already available for
-purchase, upload a pdf to [https://www.lulu.com/](https://www.lulu.com/) so that students can order
+available for free online or in print at low cost. If a bound copy isn't already available for
+purchase, upload a pdf to [Lulu](https://www.lulu.com/) so that students can order
 copies. Let the bookstore know the course materials you plan to adopt.
 -   [Open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources) can be
 made fully accessible. More info in
