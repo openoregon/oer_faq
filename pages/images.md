@@ -20,6 +20,9 @@ If you plan to share your work beyond your classroom with an open license, then 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 : Media file repository of public domain and freely-licensed educational media content.
 
+[Open Peeps](https://www.openpeeps.com/)
+: Hand-drawn, mix-and-match illustration library licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
 [American Education: Images of Teachers and Students in Action](https://deeperlearning4all.org/images/#images)
 : Repository of original print-quality photos of real preK–12 students and teachers licensed
 [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
