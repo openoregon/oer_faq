@@ -46,4 +46,4 @@ use determination for that content.
 
 To learn more about how fair use applies to openly licensed works, see the Center for
 Media and Social Impact's
-[Code of Best Practices for Fair Use in OpenCourseware](http://cmsimpact.org/code/code-best-practices-fair-use-opencourseware/).
+[Code of Best Practices in Fair Use for Open Educational Resources](https://www.wcl.american.edu/impact/initiatives-programs/pijip/documents/code-of-best-practices-in-fair-use-for-open-educational-resources/).
