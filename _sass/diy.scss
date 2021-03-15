@@ -22,3 +22,12 @@ body {
 .nav-pills .nav-link {
 	text-transform: uppercase;
 }
+
+.btn-primary {
+	border-left: 10px solid #faaf40;
+}
+
+.btn-sm .material-icons {
+	/* material icons display at 24px by default; waaay too big for bootstrap small buttons */
+	font-size: inherit;
+}
