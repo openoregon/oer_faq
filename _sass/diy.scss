@@ -16,11 +16,11 @@ body {
 .header-nav, .main-content {
 	border: 1px solid #e9e9e9;
 	margin: 10px;
-	padding: 10px;
 }
 
 .nav-pills .nav-link {
 	text-transform: uppercase;
+	font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
 
 .btn-primary {
@@ -30,4 +30,12 @@ body {
 .btn-sm .material-icons {
 	/* material icons display at 24px by default; waaay too big for bootstrap small buttons */
 	font-size: inherit;
+}
+
+.openoregon-navbar {
+	background-color: #e6e6e6;
+}
+
+h1 {
+	font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
