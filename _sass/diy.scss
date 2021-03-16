@@ -39,3 +39,12 @@ body {
 h1 {
 	font-family: "Ubuntu", Helvetica, Arial, sans-serif;
 }
+
+/* Nav pills hover style match OpenOregon */
+.nav-item:hover {
+	background-color: #16A1E7;
+}
+
+.nav-item:hover a.nav-link {
+	color: #fff;
+}
