@@ -8,3 +8,5 @@ patron_questions:
   - clarifying/basics: "I have questions about the <b>basics</b> of open educational resources"
   - clarifying/help: "Help!"
 ---
+
+What questions are on your mind regarding open educational resources?
