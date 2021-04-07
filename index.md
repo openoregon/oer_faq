@@ -9,4 +9,4 @@ patron_questions:
   - clarifying/help: "Help!"
 ---
 
-What questions are on your mind regarding open educational resources?
+Use this site to find answers to frequently asked questions about open educational resources.
