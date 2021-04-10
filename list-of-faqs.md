@@ -1,9 +1,9 @@
 ---
 layout: page
-title: List of topics
+title: List of FAQs
 ---
 
-<h2>List of topics</h2>
+<h2>List of FAQs</h2>
 
 {% assign pages_sorted = site.pages | sort: "title" %}
 {% for page in pages_sorted %}
