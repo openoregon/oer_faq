@@ -5,9 +5,16 @@
         <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-                <form class="form-inline d-flex justify-content-center md-form form-sm mt-2" action="{{ '/search' | relative_url }}">
-                    <input class="form-control" type="text" aria-label="Search" name="q">
-                    <span class="material-icons">search</span>
+                <form class="form-inline mx-auto mt-2" action="{{ '/search' | relative_url }}">
+                    <div class="input-group">
+                        <div class="form-floating">
+                            <input class="form-control" type="text" aria-label="Search" name="q" id="search">
+                            <label for="search" class="form-label">Search OER FAQ</label>
+                        </div>
+                        <button class="btn btn-success" type="submit">
+                            <span class="material-icons">search</span>
+                        </button>
+                    </div>
                 </form>
 
                 <div class="mt-4">
