@@ -16,6 +16,7 @@ Here are a few examples of topics to seek local help with:
 
 If you need local help, use the table below to find out who to contact.
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrWTV6L7OHToRJRs?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 {:.table .table-striped}
 | Institution | Point person’s name | Contact info | Relevant campus guide/webpage
