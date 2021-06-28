@@ -1,5 +1,5 @@
 title: OER FAQ
-url: "https://openoregon.github.io"
+url: "https://faq.openoregon.org"
 
 # Build settings
 markdown: kramdown
@@ -8,4 +8,4 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-baseurl: '/oer_faq'
+baseurl: '/'
