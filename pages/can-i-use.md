@@ -59,7 +59,7 @@ content in your course.
 
 Fair use is an exception to copyright that might allow educators to use copyrighted content in
 some cases.
-[Read more about fair use and how it relates to OER](https://copyright.columbia.edu/basics/fair-use.html).
+[Read more about fair use and how it relates to OER](https://www.wcl.american.edu/impact/initiatives-programs/pijip/documents/code-of-best-practices-in-fair-use-for-open-educational-resources/).
 
 ## Do you have or can you get permission?
 
