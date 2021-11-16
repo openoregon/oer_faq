@@ -25,9 +25,7 @@ allowable),
 When an educator makes 12 copies of a newspaper article for their class, this is unlikely
 to have a large impact on the market for the _New York Times_. The same educator might want
 to exercise more caution when distributing a copyrighted article in an open course they
-create because of the fourth factor: since
-[open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources)
-are available to everyone, sharing copyrighted content widely could impact the market.
+create because of the fourth factor: since your open course is available to everyone, sharing copyrighted content widely could impact the market.
 
 When possible, it’s best to find a replacement for copyrighted materials when creating
 open educational resources. Find a similar article that’s open access, link to the article
@@ -37,13 +35,21 @@ license, or make your own! This may seem like a lot of work, but it protects you
 institution, and it will also make your open educational resources more useful to others
 down the line.
 
-Fair use exists because sometimes it is impossible to make these types of substitutions.
-If it's necessary to use a very small piece of someone else’s work to make a point (a
-short quote, for example), this is usually allowable. If you do this, be sure to indicate
-that the content you're using is in copyright and you’re relying on fair use in your
-attribution. Re-users of your open educational resources will need to make their own fair
-use determination for that content.
-
-To learn more about how fair use applies to openly licensed works, see the Center for
+Fair use exists because sometimes it is impossible or unreasonable to make these types of substitutions.
+Re-users of your open educational resources will need to make their own fair
+use determination for that content. To learn more about how fair use applies to openly licensed works, see the Center for
 Media and Social Impact's
 [Code of Best Practices in Fair Use for Open Educational Resources](https://www.wcl.american.edu/impact/initiatives-programs/pijip/documents/code-of-best-practices-in-fair-use-for-open-educational-resources/).
+
+If you use fair use to reproduce all-rights-reserved content, be sure to indicate
+that the content you're using is in copyright and you’re relying on fair use in your
+attribution. Here are three ways to do this, suggested by the Code:
+
+1. Include a statement in the front matter of your open educational resource. Example: “Unless otherwise indicated, third-party texts, images, and other
+materials quoted in these materials are included on the basis of fair use as
+described in the Code of Best Practices for Fair Use in Open Education.”
+
+2. Use image captions, page footers, or attribution lists to note the copyright status of materials close to where they are used in your open educational resource. Example: “This illustration, from
+[SOURCE], is included on the basis of fair use.”
+
+3. Combination of front matter notice and chapter/page-level notice.
