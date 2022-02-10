@@ -52,7 +52,7 @@ lots more open image repositories, visit
 ### Recommendations from other Oregon faculty
 
 The [Open Oregon Resources page](http://openoregon.org/resources/)
-has links to content that other Oregon community college instructors
+has links to content that other Oregon community college and university instructors
 are using in their courses. Note: this is a mix of copyright and open
 content, so double-check before using. Unless you see an open license,
 it's under traditional copyright.
