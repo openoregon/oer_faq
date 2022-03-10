@@ -32,19 +32,19 @@ or in the public domain before they can adopt your course? Try to make things si
 
 Below is a sample permission request email.
 
-{:.blockquote}
-> Dear Dr. Dumbledore,
-> 
-> I am a faculty member with the ____ project. The purpose of this project is to design openly licensed Science and Technology courses that can be taught face-to-face, hybrid and/or online. These courses will be freely available on the internet for anyone to copy, modify and use under a [CC BY 4.0 Creative Commons license](https://creativecommons.org/licenses/by/4.0/).
-> 
-> I am creating a course entitled “Advanced Potions” and I would like to use a post from your blog entitled “Why polyjuice potion?” from February 2005.
-> 
-> I am seeking your permission to redistribute this material as part of our course, which will be shared with a CC BY 4.0 Creative Commons license. You will maintain your copyright and we will attribute your work to its original source on your blog, along with a note about your copyright/license permissions. Ideally, we would like to distribute your material, along with the rest of the course, under a Creative Commons CC BY 4.0 license. However, we can also make a note that the material is under a different open license or under "All Rights Reserved" copyright and used with permission, if that's your preference.
-> 
-> Please contact me at xxxx@hogwarts.edu or by telephone at 253-xxx-xxxx with information about this request. Thank you for your time and attention.
-> 
-> Regards,  
-> Your name
+> Dear Dr. Wallace,
+>
+> I am a faculty member with the ____ project. The purpose of this project is to design openly licensed Science and Technology courses that can be taught face-to-face, hybrid and/or online. These courses will be freely available on the internet for anyone to copy, modify and use. One of the purposes of this project is to offer educational resources to regions where formal educational opportunities are scarce or expensive.
+>
+> I am creating a course entitled “Spaceship Construction at Home” and I would like to use a post from your blog entitled “We'll go somewhere where there's cheese!” from February 2005. 
+>
+> I am seeking your permission to distribute this material as part of our course, which will be shared with a CC-BY Creative Commons license. You will maintain your copyright but will be giving us permission to distribute this material for reuse as part of the teaching of this course. We will most likely copy the text of your post into a Google document and attribute you. A full citation for the work will accompany it, as will a statement of copyright ownership.
+>
+> Please contact me at xxxx@electronicsfordogs.edu or by telephone at 253-xxx-xxxx with information about this request. Thank you for your time and attention.
+>
+> Regards,
+>
+> Gromit
 
 Content on this page was adapted from
 "[Module 8: Sharing OER](http://www.openwa.org/module-8/)" by Boyoung Chae,
