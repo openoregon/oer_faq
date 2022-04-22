@@ -29,7 +29,7 @@ There are several ways to ensure that you are using high quality
 - [Open Oregon Resources page](https://openoregon.org/resources) (peer endorsed, not necessarily peer reviewed)
 
 2. Conduct your own review of copyrighted or openly licensed course materials. The Open Textbook Network's
-[Open Textbooks Review Criteria](http://open.umn.edu/opentextbooks/ReviewRubric.aspxhttps://open.umn.edu/opentextbooks/reviews/rubric)
+[Open Textbooks Review Criteria](https://open.umn.edu/opentextbooks/reviews/rubric)
 is a useful 10-point rubric that you can use.
 
 3. Apply for a [grant](http://openoregon.org/grants/) to create or modify course content.
