@@ -49,17 +49,19 @@ Pacific Northwest licensed  [CC-BY](https://picnoi.com/license-2/).
 [Disability:IN](https://disabilityin.org/resource/disability-stock-photography/)
 : Disability inclusive stock photography licensed [CC-BY-ND](https://creativecommons.org/licenses/by-nd/4.0/).
 
+[AllGo](https://unsplash.com/@canweallgo/collections) collects
+free plus-size stock photos in Unsplash (see below).
+
+[Unsplash](https://unsplash.com/)
+: All of the impages you will find in this repository can be reused, modified, and shared for
+free; more information about the [Unsplash license](https://unsplash.com/license). 
+
 [Noun Project](https://thenounproject.com/)
 : Creative Commons licensed icons.
 
 [Pixabay](https://pixabay.com/)
 : All of the impages you will find in this repository can be reused, modified, and shared for
 free; more information about the [Pixabay License](https://pixabay.com/service/license/).
-
-[Unsplash](https://unsplash.com/)
-: All of the impages you will find in this repository can be reused, modified, and shared for
-free; more information about the [Unsplash license](https://unsplash.com/license). [AllGo](https://unsplash.com/@canweallgo/collections) collects
-free plus-size stock photos in Unsplash.
 
 [Flickr](https://www.flickr.com/)
 : Use license dropdown menu in search results to limit your search to images with
