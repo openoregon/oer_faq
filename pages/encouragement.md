@@ -14,7 +14,7 @@ It can be challenging to use [open educational resources](https://en.wikipedia.o
 if you aren't able to choose your own course materials. Here are some ways you can get started:
 
 * Get involved with the OER and textbook affordability initiatives on your campus. Reach out to the OER contact at
-your institution (see "Campus-Specific Help" in the left-hand menu). If there are upcoming programs or workshops,
+your institution (see "Campus-Specific Help" at the bottom of this page). If there are upcoming programs or workshops,
 invite colleagues in your department to join you in attending. 
 * Encourage your coworkers to consider at least one open textbook the next time your department goes through the
 textbook adoption process. 
@@ -50,8 +50,7 @@ repository.
 
 ## Read faculty success stories!
 
-* [Getting started with OER: Faculty stories](http://openoregon.org/getting-started-with-oer-faculty-stories/)
-- Open Oregon Educational Resources
+* [Getting started with OER: Faculty stories](http://openoregon.org/getting-started-with-oer-faculty-stories/) - Open Oregon Educational Resources
 * [OER Stories](http://www.openwa.org/stories/) - Open Washington
 * [Faculty Showcase](http://www.cool4ed.org/facultyshowcase.html) - COOL4Ed at California State University
 
