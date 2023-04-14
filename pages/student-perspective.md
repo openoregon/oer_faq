@@ -1,3 +1,10 @@
+---
+layout: page
+title: Student Perspective
+related_diys:
+  - pages/campus-specific-help
+  - pages/statewide-help
+---
 
 Students are key advocates for open education. Their experiences with textbook prices often motivate faculty to look at
 low-cost and open alternatives. Here are a few sources for student perspectives:
