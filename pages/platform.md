@@ -38,6 +38,8 @@ Cons: you might not like your LMS; you might need additional training on your LM
 
 If you are doing extensive revising/remixing, or if you are developing original content from scratch, you might want to use a platform that offers more control over formatting and sharing your work. Some of these platform have a learning curve.
 
+Visit [OER Tools: Documentation for Instructors](https://docs.google.com/document/d/1RfwXquyz8MLNY2jVp6UaSePiZDuwB5x-3rxJd4PWPn4/edit#heading=h.iypstm8pznxu) for a list with documentation of different tools that can be used to create open educational resources or implement open educational practices.
+
 Frequently used external platforms:
 
 *   Pressbooks (example: [Beginning Excel](https://openoregon.pressbooks.pub/beginningexcel/)) is a good choice for book-like content. Books can be read online, exported in a number of different formats, or set up for print on demand. Create a free account via pressbooks.org or contact your local point person to find out about an institutional Pressbooks account.
