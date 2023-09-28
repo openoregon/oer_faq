@@ -34,6 +34,9 @@ If you plan to share your work beyond your classroom with an open license, then 
 : Photo collection featuring disabled Black, Indigenous, people of color (BIPOC) across the
 Pacific Northwest licensed  [CC-BY](https://picnoi.com/license-2/).
 
+[UK Human Development Institute](https://www.flickr.com/people/198826134@N02/)
+: Stock photo collection that highlights disability representation licensed [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+
 [Images of Empowerment](https://www.imagesofempowerment.org/)
 : Photo library of women's activities from around the world licensed
 [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
