@@ -46,6 +46,6 @@ Frequently used external platforms:
 *   My Open Math (example: [MTH 243](https://www.myopenmath.com/course/public.php?cid=10962)) supports course content and interactive problems. 
 *   WeBWorK (example: [ORCCA: Open Resources for Community College Algebra](http://spot.pcc.edu/math/orcca/acknowledgement-1.html)) is a very accessible platform that supports interactive math problems and exports in many formats.
 *   [OER Commons authoring tools](https://www.oercommons.org/authoring-overview)
-*   Blog or website (example: [MS Office OER Work Examples](https://pmgoff.wordpress.com/padagogy/))
+*   Blog or website (example: [OER for ESOL](https://sites.google.com/pcc.edu/oer-for-esol/home))
 *   Not recommended: CNX (example: [Cell Biology for Health Occupations](https://cnx.org/contents/Th3V8ojZ@3.21:zMTtFGyH@4/Introduction)) - this platform is retiring!
 
