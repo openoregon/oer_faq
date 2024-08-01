@@ -18,7 +18,7 @@ If you plan to share your work beyond your classroom with an open license, then 
 ## Recommended places to search for openly licensed images
 
 [Diversity Images in Higher Education](https://wou.omeka.net/s/repository/page/diversity-images)
-: This collection contains openly licensed images that center visibly diverse studentat Western Oregon University.
+: This collection contains openly licensed images that center visibly diverse university students engaged in academic contexts. 
 
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
 : Media file repository of public domain and freely-licensed educational media content.
