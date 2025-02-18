@@ -321,7 +321,7 @@ Figure 10.20. [Photo of Black pregnant woman and man](https://unsplash.com/photo
 
 Figure 10.18. [Cover](https://ourbodiesourselves.org/about-us/our-history/) of the 1973 edition of Our Bodies, Ourselves by The Boston Womens Health Book Collective is included under fair use.
 
-Organizing Attributions and Licensing Statements
+Attributions for Content on This Page
 ========================================================
 Attribution Style Guide is modified from work by Michaela Willi Hooper for [Open Oregon Educational Resources](https://openoregon.org/) that is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
