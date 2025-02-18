@@ -9,16 +9,15 @@ related_diys:
 ---
 
 
-This guide provides a method for writing attributions along with examples for different content types.
-
-Attributions for Content with a Creative Commons License
-========================================================
-
-We recommend using the [Washington Open Attribution Builder](http://www.openwa.org/attrib-builder/) to get started. This tool will generate an attribution statement that you can copy and paste into your own document. You can modify the statement to include:
+This guide provides a method for writing attributions along with examples for different content types. We also recommend using the [Washington Open Attribution Builder](http://www.openwa.org/attrib-builder/) to get started. The attribution builder, and the examples here, provide attribution statements that you can copy and paste into your own document. You can then modify to include:
 
 *   Where you used the content in your work
 *   Any modifications you made to the content
-*   Any non-Creative Commons licenses (see [Attributions for Content with a Custom License](#a1), below)
+*   License details
+
+
+Attributions for Content with a Creative Commons License
+========================================================
 
 Unmodified text with Creative Commons license
 ---------------------------------------------
@@ -308,9 +307,7 @@ Health Equity is Social Justice by Kathryn Burrows and Kimberly Puttman is licen
 
 #### Open Content, Shared Previously
 
-Changing US Healthcare policy and Changing Healthcare Policies Around the World are
-
-adapted from [Comparative Health and Medicine](https://openstax.org/books/introduction-sociology-3e/pages/19-4-comparative-health-and-medicine3e/pages/19-1-the-social-construction-of-health) by Tonja R. Conerly, Kathleen Holmes, Asha Lal Tamang, [Introduction to Sociology 3e](https://openstax.org/books/introduction-sociology-3e/pages/1-introduction), [Openstax](https://openstax.org/), which is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0). Modifications: Sustainability goals and covid detail was added.
+Changing US Healthcare policy and Changing Healthcare Policies Around the World are adapted from [Comparative Health and Medicine](https://openstax.org/books/introduction-sociology-3e/pages/19-4-comparative-health-and-medicine3e/pages/19-1-the-social-construction-of-health) by Tonja R. Conerly, Kathleen Holmes, Asha Lal Tamang, [Introduction to Sociology 3e](https://openstax.org/books/introduction-sociology-3e/pages/1-introduction), [Openstax](https://openstax.org/), which is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0). Modifications: Sustainability goals and covid detail was added.
 
 Figure 10.16. People Living in the US Who Are Uninsured by Elizabeth B. Pearce and Michaela Willi Hooper, [Open Oregon Educational Resources](http://openoregon.org) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
