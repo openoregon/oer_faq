@@ -8,7 +8,6 @@ related_diys:
   - pages/statewide-help
 ---
 
-
 This guide provides a method for writing attributions along with examples for different content types. We also recommend using the [Washington Open Attribution Builder](http://www.openwa.org/attrib-builder/) to get started. The attribution builder, and the examples here, provide attribution statements that you can copy and paste into your own document. You can then modify to include:
 
 *   Where you used the content in your work
