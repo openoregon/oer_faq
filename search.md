@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Search
 ---
 
 <form action="{{ 'search' | relative_page }}" method="get">
