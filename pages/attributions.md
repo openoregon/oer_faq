@@ -82,12 +82,12 @@ Figure 1.1. Latino vs. Hispanic Infographic by Kimberly Puttman and Michaela Wil
 Embedded video with a Creative Commons license
 ----------------------------------------------
 
-[The Urgency of Intersectionality | Kimberlé Crenshaw](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en) by [TED](https://www.youtube.com/@TED) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
+[The Urgency of Intersectionality with Kimberlé Crenshaw](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en) by [TED](https://www.youtube.com/@TED) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
 Transcript for a Creative Commons-licensed video
 ------------------------------------------------
 
-Transcript for [The Urgency of Intersectionality | Kimberlé Crenshaw](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en) by [TED](https://www.youtube.com/@TED) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
+Transcript for [The Urgency of Intersectionality with Kimberlé Crenshaw](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en) by [TED](https://www.youtube.com/@TED) is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
 Corrected transcript for a Creative Commons-licensed video
 ----------------------------------------------------------
