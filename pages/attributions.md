@@ -323,6 +323,6 @@ Figure 10.18. [Cover](https://ourbodiesourselves.org/about-us/our-history/) of t
 
 Attributions for Content on This Page
 ========================================================
-Attribution Style Guide is modified from work by Michaela Willi Hooper for [Open Oregon Educational Resources](https://openoregon.org/) that is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+Attribution Style Guide by [Open Oregon Educational Resources](https://openoregon.org/) is modified from work by Michaela Willi Hooper that is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
-“Content created with AI” by Rachel Bridgewater is excerpted from [Exploring Artificial Intelligence in Open Education Contexts (not so scary after all?)](https://docs.google.com/presentation/d/1wCIcVGyN72uOEXwk5MxRF8bXwIuiPCDVBl9CnvQ37pg/edit#slide=id.g1574ed81f8f_0_135). licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+“Content created with AI” by Rachel Bridgewater is excerpted from [Exploring Artificial Intelligence in Open Education Contexts (not so scary after all?)](https://docs.google.com/presentation/d/1wCIcVGyN72uOEXwk5MxRF8bXwIuiPCDVBl9CnvQ37pg/edit#slide=id.g1574ed81f8f_0_135), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
