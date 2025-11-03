@@ -9,7 +9,7 @@ related_diys:
 ---
 
 
-This guide provides a method for writing attributions along with examples for different content types. We also recommend using the [Washington Open Attribution Builder](http://www.openwa.org/attrib-builder/) to get started. The attribution builder, and the examples here, provide attribution statements that you can copy and paste into your own document. You can then modify to include:
+This guide provides a method for writing attributions along with examples for different content types. We also recommend using the [Washington Open Attribution Builder](https://www.openwa.org/attribution-builder) to get started. The attribution builder, and the examples here, provide attribution statements that you can copy and paste into your own document. You can then modify to include:
 
 *   Where you used the content in your work
 *   Any modifications you made to the content
