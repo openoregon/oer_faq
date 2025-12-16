@@ -29,6 +29,7 @@ administrators. Try "affordable textbooks" or "openly licensed materials" instea
 The video below introduces the basics.
 
 <iframe src="https://www.youtube.com/embed/-O1RftQowCs" frameborder="0" width="560" height="315"></iframe>
+[Transcript](https://drive.google.com/open?id=1AG82_93gDuyqv_bX3p4IHyOsGhi0cKxnTIIouphMWCg)
 
 ## Other movements related to "open"
 
