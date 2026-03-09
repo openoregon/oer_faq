@@ -341,4 +341,6 @@ Attributions for Content on This Page
 ========================================================
 Attribution Style Guide by [Open Oregon Educational Resources](https://openoregon.org/) is modified from work by Michaela Willi Hooper that is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
-“Content created with AI” by Rachel Bridgewater is excerpted from [Exploring Artificial Intelligence in Open Education Contexts (not so scary after all?)](https://docs.google.com/presentation/d/1wCIcVGyN72uOEXwk5MxRF8bXwIuiPCDVBl9CnvQ37pg/edit#slide=id.g1574ed81f8f_0_135), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+“Attributions for Content created with AI” includes excerpts from:
+* [Exploring Artificial Intelligence in Open Education Contexts (not so scary after all?)](https://docs.google.com/presentation/d/1wCIcVGyN72uOEXwk5MxRF8bXwIuiPCDVBl9CnvQ37pg/edit#slide=id.g1574ed81f8f_0_135) by Rachel Bridgewater, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+* [AI, Copyright, and Open Education: What We Know Now](https://docs.google.com/presentation/d/1fIrmjaJ5NBF8BYfhzkAxQxQgrzc3wl52jMcZCr5XV1A/edit?slide=id.p#slide=id.p) by Rachel Bridgewater and Chelsea Riddle, licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
