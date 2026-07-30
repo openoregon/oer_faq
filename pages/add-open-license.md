@@ -12,7 +12,7 @@ related_diys:
 
 Creative Commons licenses are the most popular form of licensing for OER
 because they're easy to create and understand. Use the
-[Chooser Tool](https://creativecommons.org/share-your-work/) on the
+[Chooser Tool][(http://creativecommons.org/chooser/)] on the
 Creative Commons website to specify
 [the conditions](https://creativecommons.org/share-your-work/licensing-types-examples/)
 you'd like to share your work under and get a license you can copy and
