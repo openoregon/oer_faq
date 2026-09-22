@@ -70,6 +70,31 @@ lists of open educational resources by subject and discipline.
 are two search tools that enable you to search across multiple OER
 collections at once.
 
+## OER in Spanish and Other Languages
+The repositories listed here are places to search for course materials for Spanish speakers (not necessarily materials to learn Spanish). 
+
+### Collections written or translated in Spanish
+- [OpenStax](https://openstax.org/) has some Spanish translations of their textbooks. From the "Subjects" dropdown on their website, select Spanish to view the collection.
+- The Early Childhood Education collection from College of the Canyons has some Spanish translations available. The information is shared in the document [Summary of Open Educational Resources in Early Childhood Education](https://docs.google.com/document/d/1QdtH8uJoKpGJtCUk_42YnaSPmxnKZipetWqqGP4ysFU/edit?tab=t.0).
+- [Libros en Español](https://cuny.manifoldapp.org/projects/project-collection/libros-en-espanol) is a collection of Spanish-language texts in the public domain provided by Manifold @CUNY.
+- [Recursos en Español](https://oercommons.org/curated-collections/1760) is a curated collection of OER in Spanish hosted by OERCommons.
+- [Repositorio Institucional de la UNAM](https://repositorio.unam.mx/) Universidad Nacional Autónoma de México houses one of the largest collections of OER in Latin America including theses, peer reviewed journals, books and antique documents.
+- [LibreTexts Español](https://espanol.libretexts.org/Bookshelves) is mostly machine translation of OER in the site, with a few manually translated books and some that were written in Spanish (it is not possible to identify which is which).
+
+### Repositories with language filters
+- [OERCommons Advanced Search](https://oercommons.org/advanced-search)
+- [Open Educational Resources Search Index](https://oersi.org/resources/) (OERSI)
+- [Pressbooks Directory](https://pressbooks.directory/)
+
+### Lists of resources for finding OER in Spanish and other languages
+- [Lista de Repositorios, Motores de Búsqueda, y Sitios Web con licencias REA](https://es.serlo.org/community/199370/lista-de-repositorios-motores-de-busqueda-y-sitios-web-con-licencias-rea)
+- [Repositorios de Acceso Abierto en Argentina](https://www.rediunlu.unlu.edu.ar/?q=node/4)
+- [Acceso abierto: investigación científica](https://www.ipn.mx/bibliotecas-publicaciones/recursos-digitales/acceso-abierto.html)
+- [Repositorio de iniciativas](https://www.oelatam.org/repositorio/)
+- [OER in Other Languages](https://oloer.opened.ca/)
+- [Spanish: Open Educational Resources](https://utrgv.libguides.com/spanish/OER) LibGuide from University of Texas Rio Grande Valley Library
+- [Open Educational Resources (OER) by Subject: Spanish](https://guides.skylinecollege.edu/oersbysubject/spanish) LibGuide by Skyline College
+
 ## Searching for Open Educational Resources
 
 Watch the short video below for an introduction to searching for
